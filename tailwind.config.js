@@ -5,13 +5,13 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: "50px",
+      padding: "16px",
     },
     extend: {
       colors: {
-        primary: "#1FCADA",
+        primary: "#21ADDA",
         secondary: "#64748b",
-        dark: "#0f172a",
+        dark: "#0e0629",
       },
       screens: {
         "2xl": "1320px",
